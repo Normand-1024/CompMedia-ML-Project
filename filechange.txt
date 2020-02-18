@@ -1,0 +1,3 @@
+util.py 87: mapping[k][2] to mapping[k][1]
+
+util.py 15: commented out "train1," and put in the models I do have "vgg19,resnet50,inceptionv3,xception,"

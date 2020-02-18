@@ -1,0 +1,8 @@
+/venv/*
+/LanguageModels/checkpoint/*
+__pycache__
+*.pyc
+*~
+.DS_Store
+notes.txt
+com.txt
